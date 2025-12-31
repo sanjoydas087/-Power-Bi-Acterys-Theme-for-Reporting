@@ -19,7 +19,7 @@ The theme is designed to provide a clean and professional dark layout for Power 
 
 ## Files
 
-- `Power Bi Acterys Report Theme.json` – Power BI theme file
+- `Power Bi Acterys Repor Theme.json` – Power BI theme file
 
 ---
 
