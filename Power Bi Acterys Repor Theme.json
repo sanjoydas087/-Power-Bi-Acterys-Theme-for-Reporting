@@ -1,0 +1,136 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/ReportThemeSchema-2023-06.json",
+  "name": "Acterys",
+  "background": "#373f51",
+  "foreground": "#CCCCCC",
+  "tableAccent": "#14EBFF",
+  "dataColors": [
+    "#555B6A",
+    "#727884",
+    "#90949D",
+    "#E9E9E9",
+    "#373F51",
+    "#00828C",
+    "#C1265D",
+    "#3599B8",
+    "#DFBFBF",
+    "#4AC5BB",
+    "#5F6B6D",
+    "#FB8281",
+    "#F4D25A",
+    "#7F898A",
+    "#A4DDEE",
+    "#FDAB89",
+    "#B687AC",
+    "#28738A",
+    "#A78F8F",
+    "#168980",
+    "#293537",
+    "#BB4A4A",
+    "#B59525",
+    "#475052",
+    "#6A9FB0",
+    "#BD7150",
+    "#7B4F71",
+    "#1B4D5C",
+    "#706060",
+    "#0F5C55",
+    "#1C2325"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontFamily": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#EAF4FF"
+              }
+            }
+          }
+        ],
+ "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#C8C8C8"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#495060"
+              }
+            },
+       "alignment": "LEFT",
+            "fontSize": 8
+          }
+        ],
+"outspacePane": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": "#373F51"
+              }
+            },
+            "foregroundColor": {
+              "solid": {
+                "color": "#F7F5F5"
+              }
+            }
+          }
+        ],
+"filterCard": [
+          {
+            "$id": "Available",
+            "backgroundColor": {
+              "solid": {
+                "color": "#373F51"
+              }
+            },
+            "foregroundColor": {
+              "solid": {
+                "color": "#F1EEEE"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+      
+        
+ "visualTooltip": [
+          {
+            "titleFontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "valueFontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+       
+"background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1C0000"
+              }
+            },
+            "transparency": 58
+          }
+        ],
+        
+        "general": [
+          {
+            "responsive": true
+          }
+        ]
+      }
+    }
+  }
+}
